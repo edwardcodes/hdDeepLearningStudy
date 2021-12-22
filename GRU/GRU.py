@@ -74,8 +74,7 @@ def recurrent_fn(u_t, h_tm1, W_uht, W_hht, b_ht, W_uz, W_hz, b_z, W_ur, W_hr, b_
     r_t = T.nnet.sigmoid(T.dot(u_t, W_ur) + T.dot(h_tm1, W_hr) + b_r)
     ht_t = T.tanh(T.dot(u_t, W_uht) + T.dot(r_t*h_tm1, W_hht) + b_ht)
 
-    h_t = (1 - z_t)*h_tm1 + z_t*ht_t
-    return h_t
+    return (1 - z_t)*h_tm1 + z_t*ht_t
 
 # def fcn2(u_t, h_tm1, s_tm1,h_tm12, s_tm12, W_ug, W_hg, b_g, W_ui, W_hi, b_i, W_uf, W_hf, b_f,
 #                      W_uo, W_ho, b_o, W_hy, b_hy, W_ug2, W_hg2, b_g2, W_ui2, W_hi2, b_i2, W_uf2, W_hf2, b_f2,
