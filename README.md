@@ -1,122 +1,283 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-## Suggestions for future readings  
-https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles   
-https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization  
-https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
-http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture   
-https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
-https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures  
-http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets  
-https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for multiple NLP Tasks - Socher  
-http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf -GAN paper (recc by LeCun)  
-https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction  
-https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
-https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
-https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
-https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning  
-https://arxiv.org/pdf/1710.10196.pdf - training improvements for GAN  
-https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs  
-https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
-http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
-https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning  
-https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective   
-http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
-https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia 
-https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 images with conditional GAN 
-https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties  
-https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties  
-https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search   
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA algorithms   
-https://arxiv.org/pdf/1711.10925.pdf - deep image prior   
-https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck  
-mixed scale deep convolution - PNAS Dec 26, 2017  
-http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI    
-https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
-https://arxiv.org/pdf/1804.04241.pdf - capsule net for segmentation (improvement 95%)  
-https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
-https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
-https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
-https://arxiv.org/pdf/1801.10130.pdf - spherical CNN  
-https://arxiv.org/pdf/1804.02958.pdf - GAN for extreme compression  
-https://arxiv.org/pdf/1703.05698.pdf - Neural Sketch Learning for Conditional Program Generation  
+See also - https://discord.gg/nP3BfEMA 
 
-Papers on Learning Rate Scheduling --  
-https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
-https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
-https://arxiv.org/pdf/1803.10122.pdf - World models - teaching simple world model prepartory to RL - schmidhuber  
+##  Wednesday, May 25, 2022   
+https://arxiv.org/pdf/2202.05780.pdf - A Modern Self-Referential Weight Matrix That Learns to Modify Itself  
 
-ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
+##  Wednesday, May 18, 2022  
+https://openreview.net/pdf?id=M752z9FKJP - LEARNING STRIDES IN CONVOLUTIONAL NEURAL NETWORKS   
 
-https://arxiv.org/abs/1703.06114 Deep Sets  
+##  Wednesday, May 11, 2022  
+https://openreview.net/pdf?id=b-ny3x071E5 - BOOTSTRAPPED META-LEARNING   
 
-https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
+##  Wednesday, May 4, 2022  
+https://arxiv.org/abs/2202.06991 - Transformer Memory as a Differentiable Search Index   
+https://www.youtube.com/watch?v=C7mUYocWdG0 - Yannic author interview   
+https://www.youtube.com/watch?v=qlB0TPBQ7YY - Yannic on Transformer paper   
 
-https://arxiv.org/pdf/1806.01261.pdf - deep mind graph paper  
-https://arxiv.org/pdf/1805.11604.pdf - How does Batch normalization work - it's not about covariate shift  
-https://arxiv.org/pdf/1802.05983.pdf - Disentangling by factorizing  
-https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units  
-https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
-https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
-Here's what the cool kids in SF are looking at this week --  
- 
-https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
+##  Wednesday, April 27, 2022  
+https://arxiv.org/abs/2204.06125 - Hierarchical Text-Conditional Image Generation with CLIP Latents  
+https://openai.com/dall-e-2/ - OpenAI blog  
+https://www.youtube.com/watch?v=j4xgkjWlfL4 - yannic video  
 
-https://arxiv.org/pdf/1812.11314.pdf - Meta Reinforcement Learning with Distribution of Exploration Parameters
-Learned by Evolution Strategies  
-  
-https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation  
-https://arxiv.org/pdf/1901.01122.pdf - Machine Translation: A Literature Review  
-https://arxiv.org/pdf/1901.01010.pdf - A Joint Model for Multimodal Document Quality Assessment  
-https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding  
-https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligence Algorithms  
-https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo rcement Learning and Vision  
-https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
-https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind  
-http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models  
-https://openreview.net/pdf?id=HygQBn0cYm - Model predictive policy learning with uncertainty regularization for driving in dense traffic  
-https://arxiv.org/pdf/1906.07774.pdf - information matrices and generalization - bengio  
-https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio  
-https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
-https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
-https://arxiv.org/pdf/1804.00222.pdf - Meta-Data update rules for unsupervised representation learning  
-https://arxiv.org/abs/1901.10430 - Pay less attention with lightweight and dynamic convolutions  
-https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencoder  
-https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
-https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
-https://arxiv.org/pdf/1908.03015.pdf - Augmenting VAE with sparse labels: A unified framework for supervised and semi-supervised learning.  
-https://arxiv.org/pdf/1911.06294.pdf - DEEP REINFORCEMENT LEARNING FOR ADAPTIVE TRAFFIC SIGNAL CONTROL  
-https://arxiv.org/pdf/1911.06615.pdf - Deep learning methods in speaker recognition: a review  
-https://arxiv.org/pdf/1911.06904.pdf - Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling  
-https://arxiv.org/pdf/1911.07470.pdf - Graph Transformer for Graph-to-Sequence Learning  
-https://arxiv.org/pdf/1911.07532.pdf - Graph Neural Ordinary Differential Equations - modeling time varying graphs  
-https://arxiv.org/pdf/1911.08517.pdf - Generalizable Resource Allocation in Stream Processing via Deep Reinforcement Learning  
+##  Wednesday, April 20, 2022 
+https://arxiv.org/pdf/2103.00020.pdf - Learning Transferable Visual Models From Natural Language Supervision  
+https://www.youtube.com/watch?v=1LUWWAnK_Ks  
+https://www.youtube.com/watch?v=3X3EY2Fgp3g  
 
-## Biology 
-https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
-https://arxiv.org/pdf/1911.06105.pdf - PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions  
-https://arxiv.org/pdf/1911.06107.pdf - EARTHMOVER-BASED MANIFOLD LEARNING FOR ANALYZING MOLECULAR 
-CONFORMATION SPACES  
-https://arxiv.org/pdf/1911.07125.pdf - Opportunities for artificial intelligence in advancing precision medicine  
+##  Wednesday, April 13, 2022
+https://arxiv.org/pdf/2110.13985.pdf - Combining Recurrent, Convolutional, and Continuous-time
+Models with Linear State-Space Layers
 
-## Political news issues  
-https://arxiv.org/pdf/1911.06198.pdf - Election control in social networks via edge addition and removal  
-https://arxiv.org/pdf/1911.05885.pdf -  Deception through half-truths  
+##  Wednesday, April 6, 2022
+https://arxiv.org/pdf/2202.00666.pdf - Typical Decoding for Natural Language Generation
 
-## Finance Related Papers - 
-https://arxiv.org/pdf/1911.05892.pdf - Reinforcement Learning for Market Making in Multi-agent Dealer Market  
-https://arxiv.org/pdf/1911.06193.pdf - Predicting Indian stock market using psycho-linguistic features of financial news  
-https://arxiv.org/pdf/1911.05952.pdf - Change point analysis in financial networks  
-https://arxiv.org/pdf/1911.05620.pdf - Neural networks for option pricing and hedging - a literature review  
-https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor-based decomposition method  
-https://arxiv.org/pdf/1911.08647.pdf - Deep Reinforcement Learning in Cryptocurrency Market Making  
-https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
-https://arxiv.org/pdf/1912.10343.pdf - Design of High-Frequency Trading Algorithm Based on Machine Learning  
-https://arxiv.org/abs/1912.10806 - DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News  
-https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTING  
+https://youtu.be/_EDr3ryrT_Y 
 
-https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
-https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
+https://www.youtube.com/watch?v=AvHLJqtmQkE 
+
+##  Wednesday, March 30, 2022
+https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING   
+https://www.youtube.com/watch?v=MzKDNmOJ67Q  
+
+##  Wednesday, March 23, 2022 
+https://openreview.net/forum?id=4orlVaC95Bo - Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data
+
+##  Wednesday, March 16, 2022
+https://arxiv.org/abs/2203.03466 - Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer  
+https://www.youtube.com/watch?v=MNOJQINH-qw  
+
+##  Wednesday, March 9, 2022 
+https://arxiv.org/abs/2201.12122 - Can Wikipedia Help Offline Reinforcement Learning?   
+Yannic's talk on this,  
+https://www.youtube.com/watch?v=XHGh19Hbx48   
+and he also has a followon video interview with the authors   
+https://www.youtube.com/watch?v=FNDVy_BR8aA   
+
+
+##  Wednesday, March 2, 2022 - 
+https://arxiv.org/pdf/2107.03342.pdf - A Survey of Uncertainty in Deep Neural Networks
+
+##  Wednesday, February 23, 2022 - 
+https://arxiv.org/pdf/2201.08239v2.pdf - LaMDA: Language Models for Dialog Applications
+
+##  Wednesday, February 16, 2022 - 
+https://openreview.net/pdf?id=TrjbxzRcnf- MEMORIZING TRANSFORMERS
+
+##  Wednesday, February 9, 2022 - 
+https://arxiv.org/pdf/2106.07644.pdf - A Continuized View on Nesterov Acceleration for Stochastic Gradient Descent and Randomized Gossip
+
+##  Wednesday, February 2, 2022 - 
+https://arxiv.org/pdf/2108.08052.pdf - Moser Flow: Divergence-based Generative Modeling on Manifolds
+
+##  Wednesday, January 26, 2022 - 
+https://dylandoblar.github.io/noether-networks/ - Noether Networks: meta-learning useful conserved quantities
+
+https://www.youtube.com/watch?v=Xp3jR-ttMfo
+
+##  Wednesday, January 19, 2022 - 
+https://arxiv.org/pdf/2010.15277.pdf - Class-incremental learning: survey and performance evaluation on image classification
+
+##  Wednesday, January 12, 2022 - 
+https://arxiv.org/abs/2006.11287 - Discovering Symbolic Models from Deep Learning with Inductive Biases 
+
+##  Wednesday, January 5, 2022 - 
+https://arxiv.org/pdf/2006.09252.pdf - Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting
+
+##  Wednesday, December 29, 2021 - 
+https://arxiv.org/pdf/2112.04426.pdf - Improving Language Models by Retrieving from Trillions of Tokens
+
+https://www.deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
+
+##  Wednesday, December 22, 2021 - 
+https://arxiv.org/abs/2106.01798 - Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions
+
+https://www.youtube.com/watch?v=W2UT8NjUqrk
+
+##  Wednesday, December 15, 2021 - 
+https://arxiv.org/pdf/2108.01073.pdf - Image Synthesis and Editing with Stochastic Differential Equations
+
+##  Wednesday, December 1, 2021 - 
+https://openreview.net/forum?id=HfpNVDg3ExA
+OpenReviewOpenReview
+Probabilistic Transformer For Time Series Analysis
+
+##  Wednesday, November 17, 2021 - 
+https://arxiv.org/pdf/2110.03922.pdf - NEURAL TANGENT KERNEL EIGENVALUES ACCURATELY PREDICT GENERALIZATION
+
+##  Wednesday, November 10, 2021 - 
+https://arxiv.org/pdf/2104.00681.pdf - NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
+
+https://github.com/zju3dv/NeuralRecon
+
+
+##  Wednesday, October 27, 2021 - 
+https://arxiv.org/pdf/2110.09485.pdf - Learning in High Dimension Always Amounts to Extrapolation
+
+##  Wednesday, October 20, 2021 - 
+https://arxiv.org/pdf/2109.02355.pdf - A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning
+
+##  Wednesday, October 13, 2021 - 
+https://arxiv.org/pdf/2006.09011.pdf - Improved Techniques for Training Score-Based Generative Models
+
+##  Wednesday, October 6, 2021 - 
+https://arxiv.org/abs/2006.05929 - Dataset Condensation with Gradient Matching
+
+##  Wednesday, September 29, 2021 - 
+https://arxiv.org/abs/1811.10959 - Dataset distillation
+
+##  Wednesday, September 22, 2021 - 
+https://arxiv.org/pdf/2003.13216.pdf - Learning to Learn Single Domain Generalization
+
+##  Wednesday, September 15, 2021 - 
+https://arxiv.org/pdf/2108.11482.pdf - ETA Prediction with Graph Neural Networks in Google Maps
+
+##  Wednesday, September 8, 2021 - 
+https://cascaded-diffusion.github.io/assets/cascaded_diffusion.pdf - Cascaded Diffusion Models for High Fidelity Image Generation
+
+##  Wednesday, September 1, 2021 - 
+https://arxiv.org/pdf/2107.06277.pdf - Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability
+
+##  Wednesday, August 25, 2021 - 
+https://arxiv.org/abs/2108.07732 - Program Synthesis with Large Models
+
+##  Wednesday, August 18, 2021 - 
+https://arxiv.org/abs/2012.13349 - Solving Mixed Integer Programs Using Neural Networks
+
+##  Wednesday, August 11, 2021 - 
+https://www.nature.com/articles/s41586-021-03819-2 - DeepFold
+
+##  Wednesday, August 4, 2021 - 
+Alphafold - blog https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology paper https://www.nature.com/articles/s41586-021-03819-2 supplemental info https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03819-2/MediaObjects/41586_2021_3819_MOESM1_ESM.pdf
+
+##  Wednesday, July 21, 2021 - 
+https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/ https://arxiv.org/abs/2103.03206
+
+##  Wednesday, July 14, 2021 - 
+https://arxiv.org/pdf/1503.03585.pdf (Deep Unsupervised Learning using Non equilibrium Thermodynamics) by Surya Ganguli at Stanford
+##  
+Wednesday, July 7, 2021 - 
+https://arxiv.org/pdf/2105.05233.pdf - Diffusion Models Beat GANs on Image Synthesis
+
+##  Wednesday, June 30, 2021 - 
+https://arxiv.org/pdf/2006.11239.pdf - Denoising Diffusion Probabilistic Models
+
+##  Wednesday, June 23, 2021 - 
+https://arxiv.org/abs/2010.03409 - Learning mesh-based simulation with graph networks
+
+https://sites.google.com/view/learning-to-simulate
+
+https://deepmind.com/research/publications/Learning-to-Simulate-Complex-Physics-with-Graph-Networks
+
+##  Wednesday, June 16, 2021 - 
+https://arxiv.org/pdf/2106.01345.pdf - Decision Transformer: Reinforcement Learning via Sequence Modeling
+
+https://www.youtube.com/watch?v=-buULmf7dec
+
+https://sites.google.com/berkeley.edu/decision-transformer
+
+##  Wednesday, June 9, 2021 - 
+https://arxiv.org/pdf/2103.07945.pdf - Learning One Representation to Optimize All Rewards
+
+##  Wednesday, June 2, 2021 - 
+https://distill.pub/2021/multimodal-neurons/ - Multimodal Neurons in Artificial Neural Networks
+
+https://openai.com/blog/clip/ - CLIP: Connecting Text and Images
+
+##  Wednesday, May 26, 2021 - 
+https://arxiv.org/pdf/2104.14294.pdf - Emerging Properties in Self-Supervised Vision Transformers
+
+https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/
+
+##  Wednesday, May 19, 2021 - 
+https://arxiv.org/pdf/2104.10558.pdf - Contingencies from Observations: Tractable ContingencyPlanning with Learned Behavior Models
+
+##  Wednesday, May 12, 2021 - 
+https://arxiv.org/pdf/1806.09055.pdf - DARTS: Differentiable Architecture Search (ICLR 2019)
+
+##  Wednesday, May 5, 2021 - 
+https://arxiv.org/pdf/2104.06644.pdf - Masked Language Modeling and the Distributional Hypothesis:Order Word Matters Pre-training for Little
+
+##  Wednesday, April 28, 2021 - 
+https://arxiv.org/pdf/2009.03717.pdf - Hierarchical message passing graph neural networks
+
+##  Wednesday, April 14, 2021 - 
+https://arxiv.org/pdf/2103.03230v1.pdf - Barlow Twins: Self-Supervised Learning via Redundancy Reduction
+
+##  Wednesday, April 7, 2021 - 
+https://arxiv.org/pdf/2103.14770.pdf - Categorical representation learning: morphism is all you need
+
+##  Wednesday, March 31, 2021 - 
+https://arxiv.org/pdf/2102.12736v1.pdf - Time-Series Imputation with Wasserstein Interpolation for Optimal Look-Ahead-Bias and Variance Tradeoff
+
+## Wednesday, March 24, 2021 - 
+https://awacrl.github.io/ - Accelerating online reinforcement learning with offline datasets
+
+##  Wednesday, March 17, 2021 - 
+https://arxiv.org/pdf/2102.12092.pdf - Zero-Shot Text-to-Image Generation
+
+https://openai.com/blog/dall-e/
+
+##  Wednesday, March 10, 2021 - 
+https://giotto-ai.github.io/gtda-docs/latest/notebooks/gravitational_waves_detection.html
+
+##  Wednesday, March 3, 2021 - 
+https://arxiv.org/pdf/2102.08602.pdf - Modeling long-range interactions without attention
+
+##  Wednesday, February 24, 2021 - 
+https://arxiv.org/pdf/2101.08692.pdf - Characterizing signal propagation to close the performance gap in unnormalized resnets
+
+##  Wednesday, February 17, 2021 - 
+https://arxiv.org/pdf/2006.10742.pdf - Learning Invariant Representations forReinforcement Learning without Reconstruction
+
+##  Wednesday, February 10, 2021 - 
+https://arxiv.org/pdf/2007.13544.pdf - Combining Deep Reinforcement Learning and Search for Imperfect-Information Games
+
+##  Wednesday, February 3, 2021 - 
+https://arxiv.org/pdf/2010.11929.pdf - An image is worth 16x16 words: transformers for image recognition at scale
+
+##  Wednesday, January 27, 2021 - 
+https://arxiv.org/abs/2003.02821 - What went wrong and when? Instance-wise feature importance for time-series black-box models
+
+##  Wednesday, January 20, 2021 - 
+https://arxiv.org/pdf/1912.09363.pdf - Temporal Fusion Transformersfor Interpretable Multi-horizon Time Series Forecasting
+
+##  Wednesday, January 13, 2021 - 
+https://arxiv.org/abs/1905.10403 - Neural Jump Stochastic Differential Equations
+
+##  Wednesday, January 6, 2021 - 
+http://implicit-layers-tutorial.org/neural_odes/ - We're continuing this from last week. This week we'll cover Ch 3,4,5.
+
+##  Wednesday, December 30, 2020 - 
+http://implicit-layers-tutorial.org/ - NeurIPS tutorial on deep implicit networks
+
+Wednesday, December 23, 2020 - 
+https://arxiv.org/pdf/1907.03907.pdf - Latent ODEs for Irregularly-Sampled Time Series
+
+https://www.youtube.com/watch?v=tOkH339Wucs
+
+##  Wednesday, December 16, 2020 - 
+https://papers.nips.cc/paper/2020/file/08425b881bcde94a383cd258cea331be-Paper.pdf - Ridge Rider: Finding Diverse Solutions by FollowingEigenvectors of the Hessian
+
+##  Wednesday, December 9, 2020 - 
+https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf
+“OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification"
+
+##  Wednesday, December 2, 2020 - 
+https://arxiv.org/pdf/2011.02421.pdf - ONE-SHOT CONDITIONAL AUDIO FILTERING OF ARBITRARY SOUNDS
+
+##  Wednesday, November 18, 2020 - 
+https://arxiv.org/pdf/2010.14498.pdf - Implicit under-parametrization inhibits data efficient deep reinforcement learning
+
+
+
+
+
+
+
+
+
 
 ## Mar 11 - Hacker Dojo  
 https://arxiv.org/pdf/2002.11089.pdf - Rewriting History with Inverse RL: Hindsight Inference for Policy Improvement  
