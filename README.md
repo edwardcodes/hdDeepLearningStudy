@@ -1,6 +1,40 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-See also - https://discord.gg/nP3BfEMA 
+See group discord - https://discord.gg/HuWVmMgmqS   
+zoom link - On the meetup page  
+meeting time - 6:30 pm California time   
+
+##  Wednesday, July 27, 2022  
+Paper: A Mathematical Framework for Transformer Circuits https://transformer-circuits.pub/2021/framework/index.html#model-simplifications  
+
+##  Wednesday, July 20, 2022  
+Paper: A Mathematical Framework for Transformer Circuits https://transformer-circuits.pub/2021/framework/index.html#model-simplifications  
+
+##  Wednesday, July 13, 2022  
+Paper: https://arxiv.org/abs/2001.08361 - Scaling Laws for Neural Language Models   
+Blog: https://medium.com/nlplanet/two-minutes-nlp-scaling-laws-for-neural-language-models-add6061aece7   
+
+##  Wednesday, July 6, 2022  
+Paper: https://arxiv.org/abs/2206.11795 - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos  
+https://github.com/openai/Video-Pre-Training  
+Yannic Review:  https://www.youtube.com/watch?v=oz5yZc9ULAc  
+
+##  Wednesday, June 29, 2022  
+Paper:  https://arxiv.org/pdf/2110.00966.pdf - Translating Images into Maps  
+
+##  Wednesday, June 22, 2022
+Paper: https://arxiv.org/abs/2205.09665 - Automated Crossword Solving
+
+##  Wednesday, June 15, 2022   
+Paper: https://arxiv.org/pdf/2205.10824.pdf - ReLU Fields: The Little Non-linearity That Could   
+
+
+##  Wednesday, June 8, 2022  
+Paper: https://arxiv.org/abs/2102.06810 - Understanding Self-Supervised Learning Dynamics without Contrastive Pairs   
+
+##  Wednesday, June 1, 2022   
+Paper: https://arxiv.org/pdf/2205.06175.pdf - A Generalist Agent  
+Blog: https://www.deepmind.com/publications/a-generalist-agent  
 
 ##  Wednesday, May 25, 2022   
 https://arxiv.org/pdf/2202.05780.pdf - A Modern Self-Referential Weight Matrix That Learns to Modify Itself  
